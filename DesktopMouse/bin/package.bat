@@ -1,4 +1,4 @@
-echo Replace DLL_PATH and SDK_PATH before running
+echo SDK_PATH before running
 pause
 
 

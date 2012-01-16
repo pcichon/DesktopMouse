@@ -1,8 +1,7 @@
 /**
  * DekstopMouse // Adobe AIR3.*
  * 
- * Download: http://code.google.com/p/desktopmouse/downloads/list
- * Source: https://desktopmouse.googlecode.com/svn/trunk/src/
+ * Source: https://github.com/pcichon/DesktopMouse
  * 
  * @author		Pawel Cichon
  * @version		0.1
