@@ -1,0 +1,31 @@
+﻿Build started 2012-01-16 11:37:14.
+     1>Project "C:\Users\Genesi\Documents\Visual Studio 2010\Projects\DesktopMouse\DesktopMouse\DesktopMouse.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\DesktopMouse.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /analyze- /errorReport:prompt DesktopMouse.cpp DLLMain.cpp /clr:nostdlib 
+         DesktopMouse.cpp
+         DLLMain.cpp
+         Generating Code...
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Genesi\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Genesi\Documents\Visual Studio 2010\Projects\DesktopMouse\Release\DesktopMouse.dll" /INCREMENTAL:NO /NOLOGO FlashRuntimeExtensions.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\DesktopMouse.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Genesi\Documents\Visual Studio 2010\Projects\DesktopMouse\Release\DesktopMouse.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Release\DesktopMouse.obj
+         Release\DLLMain.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Creating library C:\Users\Genesi\Documents\Visual Studio 2010\Projects\DesktopMouse\Release\DesktopMouse.lib and object C:\Users\Genesi\Documents\Visual Studio 2010\Projects\DesktopMouse\Release\DesktopMouse.exp
+         DesktopMouse.vcxproj -> C:\Users\Genesi\Documents\Visual Studio 2010\Projects\DesktopMouse\Release\DesktopMouse.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Genesi\Documents\Visual Studio 2010\Projects\DesktopMouse\Release\DesktopMouse.dll;#2" /manifest Release\DesktopMouse.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\DesktopMouse.unsuccessfulbuild".
+         Touching "Release\DesktopMouse.lastbuildstate".
+     1>Done Building Project "C:\Users\Genesi\Documents\Visual Studio 2010\Projects\DesktopMouse\DesktopMouse\DesktopMouse.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.93
