@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_d0d14bb3750e673f19a82023b1ba4678b4367c0f261e2c7968a87606d8c33363_flash_display_Sprite" mod="1326713289404" signatureChecksum="242579533" >
+        <def id="_d0d14bb3750e673f19a82023b1ba4678b4367c0f261e2c7968a87606d8c33363_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/genesi/mouse/DesktopMouse" mod="1326711612129" signatureChecksum="3307816439" >
+        <def id="com.genesi.mouse:DesktopMouse" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="5ad802a2e0db5cbf5b039e741f1dbc92714e4b1d7efbf1fc875b93d1c5aca815"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
